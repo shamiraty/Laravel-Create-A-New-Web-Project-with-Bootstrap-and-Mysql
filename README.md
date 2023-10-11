@@ -1,3 +1,8 @@
+# ⏱LARAVEL CREATE A NEW WEB PROJECT WITH BOOTSTRAP AND MYSQL
+# ⏱BOOTSTRAP AND GOOGLE FONTS WITH MYSQL RDBMS
+youtube: https://youtu.be/LpB2GCeFjao
+![1](https://github.com/shamiraty/Laravel-Create-A-New-Web-Project-with-Bootstrap-and-Mysql/assets/129072179/038ec3da-f35c-4a76-a135-41b9d29fcdc8)
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p>
 
 <p align="center">
